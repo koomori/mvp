@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:spring-security-appinfo:3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/spring-security-appinfo/3.0.1/c1c93887fa5e75d5627eb421cbc42297af57706c/spring-security-appinfo-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/spring-security-appinfo/3.0.1/61a1bd459ac5efda72faf963d7a54fe34de5da37/spring-security-appinfo-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
